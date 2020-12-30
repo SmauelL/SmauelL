@@ -9,7 +9,7 @@ I'm a Games Backend Engineer
 
 This is my Github stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmauelL&show_icons=true&theme=vue&&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SmauelL&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 This is my most used languages
 
