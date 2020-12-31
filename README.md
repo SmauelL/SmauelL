@@ -9,9 +9,10 @@ I'm a Games Backend Engineer
 
 This is my Github stats
 
-[![Anurag's github stats](https://github-readme-stats-n28pdtu4s.vercel.app/api?username=SmauelL&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats-mocha-theta.vercel.app/api?username=SmauelL&show_icons=true&theme=vue&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 This is my most used languages
 
-[![Top Langs](https://github-readme-stats-n28pdtu4s.vercel.app/api/top-langs/?username=SmauelL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-mocha-theta.vercel.app/api/top-langs/?username=SmauelL&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
